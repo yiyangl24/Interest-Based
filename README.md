@@ -75,14 +75,6 @@
 |    vanilla + llm_init     | 0.2792  | 0.4018 | 0.3079  | 0.5162 |
 | vanilla+llm_init +session | 0.2903  | 0.4179 | 0.3184  | 0.5294 |
 
-#### Books
-
-|           Model            | NDCG@10 | HR@10  | NDCG@20 | HR@20  |
-| :------------------------: | :-----: | :----: | :-----: | :----: |
-|          vanilla           | 0.3886  | 0.5426 | 0.4141  | 0.6437 |
-|     vanilla + llm_init     |         |        |         |        |
-| vanilla+llm_init + session |         |        |         |        |
-
 
 
 
