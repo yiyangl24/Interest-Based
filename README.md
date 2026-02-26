@@ -44,7 +44,7 @@
 5. 训练
 
    ```python
-   python main.py
+   python main.py --llm_init --session --profile
    ```
 
 ### Dataset
@@ -74,6 +74,7 @@
 |          vanilla          | 0.2226  | 0.3118 | 0.2485  | 0.4147 |
 |    vanilla + llm_init     | 0.2792  | 0.4018 | 0.3079  | 0.5162 |
 | vanilla+llm_init +session | 0.2903  | 0.4179 | 0.3184  | 0.5294 |
+
 
 
 
